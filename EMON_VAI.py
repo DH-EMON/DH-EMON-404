@@ -859,11 +859,11 @@ def crackfree(idf, pwv):
 
 if __name__ == '__main__':
     try:
-        os.mkdir('OK ID')
+        os.mkdir('OK')
     except:
         pass
     try:
-        os.mkdir('CP ID')
+        os.mkdir('CP')
     except:
         pass
     try:
